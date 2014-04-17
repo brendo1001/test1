@@ -1,4 +1,9 @@
 x<- 12
-y<- 10
+y<- 5
 
 z= x *y
+print(z)
+
+#some addition mods
+
+
